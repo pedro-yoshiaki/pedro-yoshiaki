@@ -7,10 +7,20 @@ Bem-vindo(a) ao meu perfil do GitHub! 🚀
 🎯 Focado em me tornar um desenvolvedor completo
 
 
+
+
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pedro-yoshiaki&theme=dark&mode=weekly" />
+
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pedro-yoshiaki&theme=dark&locale=pt_BR&mode=weekly" />
+
+<!---
+https://github-readme-streak-stats.herokuapp.com?user=pedro-yoshiaki&theme=dark&mode=weekly
+--->
+
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=pedro-yoshiaki&show_icons=true&theme=dark&layout=compact" />
  </div>
+
+
 
 #### Estudando agora:
 ![C](https://img.shields.io/badge/ANSI-34cceb?style=for-the-badge&logo=c&logoColor=white)&nbsp;
