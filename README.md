@@ -2,7 +2,7 @@
 Bem-vindo(a) ao meu perfil do GitHub! 🚀
 
 ## Sobre Mim
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFSP.  
+🎓 Técnico em Administração pela ETEC GV.  
 💻 Apaixonado por tecnologia, conhecimento e inovação.  
 🎯 Focado em me tornar um desenvolvedor completo
 
